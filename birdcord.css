@@ -18,5 +18,6 @@
     --background-mentioned-hover: #bde6fb15;
     
     --background-modifier-hover: #222;
-    --background-modifier-active: #333;
+    --background-modifier-active: #fff;
+    --background-modifier-selected: #aaa;
 }

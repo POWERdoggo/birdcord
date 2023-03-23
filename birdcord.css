@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 
 :root {
-    --message: none;
     --font-primary: 'Work Sans', sans-serif;
 }
 
@@ -9,7 +8,7 @@
     --background-1: #000;
 
     --background-primary: var(--background-1);
-    --background-primary-alt: var(--background-1);
-    --background-secondary: var(--background-1);
-    --background-secondary-alt: var(--background-1);
+    --background-primary-alt: #00ff00;
+    --background-secondary: #ff0000;
+    --background-secondary-alt: #0000ff;
 }

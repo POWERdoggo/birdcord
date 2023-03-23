@@ -13,4 +13,5 @@
     --background-secondary: var(--background-2);
     --background-secondary-alt: var(--background-2);
     --background-tertiary: var(--background-2);
+    --background-accent-gradient: #ff0000;
 }

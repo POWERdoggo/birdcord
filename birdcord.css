@@ -53,4 +53,8 @@
     --button-destructive: #fb7c7c;
     --button-destructive-hover: #ff929b;
     --button-destructive-active: #fa4a4a;
+    
+    .toolbar-3_r2xA .clickable-ZD7xvu:hover {
+        background-color: var(--button-background-hover);
+    }
 }

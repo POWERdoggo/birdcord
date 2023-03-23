@@ -6,6 +6,8 @@
     --message: none;
     --embed-color: none;
     --font-primary: 'Work Sans', sans-serif;
+    
+    --channeltextarea-background: var(--background-tertiary);
 }
 
 .theme-dark {

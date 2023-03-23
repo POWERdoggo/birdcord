@@ -6,6 +6,9 @@
     --message: none;
     --embed-color: none;
     --font-primary: 'Work Sans', sans-serif;
+    
+    --border-radius-1: 10px;
+    --border-radius-2: 8px;
 }
 
 .theme-dark {
@@ -35,8 +38,4 @@
     --interactive-normal: var(--accent-1);
     
     --channeltextarea-background: var(--background-tertiary);
-    
-    .overflow-1wOqNV {
-        text-color: #fff;
-    }
 }

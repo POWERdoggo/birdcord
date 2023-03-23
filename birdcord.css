@@ -27,4 +27,14 @@
     --interactive-selected: var(--background-1);
     --interactive-active: var(--accent-2);
     --interactive-normal: var(--accent-1);
+    
+    --button-background: #2a3439;
+    --button-background-hover: #354249;
+    --button-background-active: #4d5f68;
+    --button-accent: var(--accent-1);
+    --button-accent-hover: #d2f3ff;
+    --button-accent-active: #8dd4f8;
+    --button-destructive: #fb7c7c;
+    --button-destructive-hover: #ff929b;
+    --button-destructive-active: #fa4a4a;
 }

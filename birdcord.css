@@ -21,5 +21,8 @@
     --background-modifier-active: #444;
     --background-modifier-selected: #333;
     
-    --interactive-normal: #ff0000;
+    --text-normal: var(--accent);
+    --interactive-selected: var(--background-1);
+    --interactive-active: var(--accent);
+    --interactive-normal: var(--accent);
 }

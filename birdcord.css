@@ -6,8 +6,6 @@
     --message: none;
     --embed-color: none;
     --font-primary: 'Work Sans', sans-serif;
-    
-    --channeltextarea-background: var(--background-tertiary);
 }
 
 .theme-dark {
@@ -33,30 +31,6 @@
     --interactive-selected: var(--background-1);
     --interactive-active: var(--accent-2);
     --interactive-normal: var(--accent-1);
-    --interactive-muted: var(--button-background-active);
-    --channels-default: var(--text-muted);
-    --header-primary: var(--text-normal);
-    --header-secondary: var(--text-muted);
     
-    --settings-icon-color: #8eacbc;
-    --control-brand-foreground: var(--accent-color);
-    --info-warning-foreground: var(--accent-color);
-    --tab-selected: #354249;
-    --switch: #3d4c53;
-    --activity-card-background: var(--background-1);
-    --brand-experiment: var(--accent-color) !important;
-    
-    --button-background: #2a3439;
-    --button-background-hover: #354249;
-    --button-background-active: #4d5f68;
-    --button-accent: var(--accent-1);
-    --button-accent-hover: #d2f3ff;
-    --button-accent-active: #8dd4f8;
-    --button-destructive: #fb7c7c;
-    --button-destructive-hover: #ff929b;
-    --button-destructive-active: #fa4a4a;
-}
-
-.toolbar-3_r2xA .clickable-ZD7xvu:hover {
-    background-color: var(--button-background-hover);
+    --channeltextarea-background: var(--background-tertiary);
 }

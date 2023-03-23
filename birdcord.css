@@ -5,5 +5,10 @@
 }
 
 .theme-dark {
-    --background-primary: #000;
+    --background-1: #000;
+
+    --background-primary: var(--background-1);
+    --background-primary-alt: var(--background-1);
+    --background-secondary: var(--background-1);
+    --background-secondary-alt: var(--background-1);
 }

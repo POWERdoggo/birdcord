@@ -28,6 +28,14 @@
     --interactive-active: var(--accent-2);
     --interactive-normal: var(--accent-1);
     
+    --settings-icon-color: #8eacbc;
+    --control-brand-foreground: var(--accent-color);
+    --info-warning-foreground: var(--accent-color);
+    --tab-selected: #354249;
+    --switch: #3d4c53;
+    --activity-card-background: var(--background-1);
+    --brand-experiment: var(--accent-color) !important;
+    
     --button-background: #2a3439;
     --button-background-hover: #354249;
     --button-background-active: #4d5f68;

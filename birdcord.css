@@ -27,6 +27,10 @@
     --interactive-selected: var(--background-1);
     --interactive-active: var(--accent-2);
     --interactive-normal: var(--accent-1);
+    --interactive-muted: var(--button-background-active);
+    --channels-default: var(--text-muted);
+    --header-primary: var(--text-normal);
+    --header-secondary: var(--text-muted);
     
     --settings-icon-color: #8eacbc;
     --control-brand-foreground: var(--accent-color);

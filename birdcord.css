@@ -9,6 +9,7 @@
     --background-2: #050505;
 
     --background-primary: var(--background-1);
+    --background-primary-alt: #ff0000;
     --background-secondary: var(--background-2);
     --background-secondary-alt: var(--background-2);
 }

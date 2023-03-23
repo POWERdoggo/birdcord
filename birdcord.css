@@ -13,6 +13,7 @@
     --background-secondary: var(--background-2);
     --background-secondary-alt: var(--background-2);
     --background-tertiary: var(--background-2);
-    --background-accent-gradient: #ff0000;
     --background-floating: var(--background-1);
+    --background-mentioned: #bde6fb10;
+    --background-mentioned-hover: #bde6fb15;
 }

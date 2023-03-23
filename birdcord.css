@@ -5,7 +5,8 @@
 }
 
 .theme-dark {
-    --accent: #bbb;
+    --accent-1: #bbb;
+    --accent-2: #888;
     --background-1: #000;
     --background-2: #0a0a0a;
 
@@ -22,8 +23,8 @@
     --background-modifier-active: #444;
     --background-modifier-selected: #333;
     
-    --text-normal: var(--accent);
+    --text-normal: var(--accent-1);
     --interactive-selected: var(--background-1);
-    --interactive-active: var(--accent);
-    --interactive-normal: var(--accent);
+    --interactive-active: var(--accent-2);
+    --interactive-normal: var(--accent-1);
 }

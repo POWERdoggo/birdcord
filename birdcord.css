@@ -12,6 +12,7 @@
     --accent-1: #bbb;
     --accent-2: #888;
     --accent-3: #00497a;
+    --accent-4: #00416e;
     --background-1: #000;
     --background-2: #0a0a0a;
 
@@ -24,8 +25,8 @@
     --background-mentioned: #bde6fb10;
     --background-mentioned-hover: #bde6fb15;
     
-    --background-modifier-hover: #222;
-    --background-modifier-active: var(--accent-3);
+    --background-modifier-hover: var(--accent-3);
+    --background-modifier-active: var(--accent-4);
     --background-modifier-selected: var(--accent-3);
     
     --text-normal: var(--accent-1);

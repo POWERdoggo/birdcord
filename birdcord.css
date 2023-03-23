@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 
 :root {
-    --font-primary: 'Delicious Handrawn', cursive;
+    --font-primary: 'Work Sans', sans-serif;
 }
 
 .theme-dark {

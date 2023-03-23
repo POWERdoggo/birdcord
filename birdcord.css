@@ -30,7 +30,7 @@
     --background-modifier-selected: var(--accent-3);
     
     --text-normal: var(--accent-1);
-    --interactive-selected: var(--background-1);
+    --interactive-selected: var(--background-3);
     --interactive-active: var(--accent-4);
     --interactive-normal: var(--accent-1);
     

@@ -24,8 +24,8 @@
     --background-mentioned-hover: #bde6fb15;
     
     --background-modifier-hover: #222;
-    --background-modifier-active: #444;
-    --background-modifier-selected: #333;
+    --background-modifier-active: #0098ff;
+    --background-modifier-selected: #0098ff;
     
     --text-normal: var(--accent-1);
     --interactive-selected: var(--background-1);

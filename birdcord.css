@@ -6,10 +6,8 @@
 
 .theme-dark {
     --background-1: #000;
+    --background-2: #0f0f0f;
 
     --background-primary: var(--background-1);
-    --background-primary-alt: #00ff00;
-    --background-secondary: #ff0000;
-    --background-secondary-alt: #0000ff;
-    --background-tertiary: #0f0f0f;
+    --background-secondary: var(--background-2);
 }

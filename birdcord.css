@@ -20,4 +20,6 @@
     --background-modifier-hover: #222;
     --background-modifier-active: #444;
     --background-modifier-selected: #333;
+    
+    --interactive-selected: #ff0000;
 }

@@ -39,7 +39,7 @@
 	/* overlay background on stuff when clicked or selected */
 	/*--active-modifier: hsl(220, 20%, 40%, 0.2);
 	/* overlay background on messages when hovered over */
-	/*--message-hover-modifier: hsl(220, 0%, 0%, 0.1);
+	--message-hover-modifier: hsl(220, 0%, 0%, 0.1);
 	/* radius of round corners */
 	/*--roundness: 16px;*/
 }
@@ -98,6 +98,19 @@
     --accent-2: #888;
     --accent-3: #0098ff10;
     --accent-4: #0098ffa0;
+}
+
+/* remove big chat background and add back smaller */
+.chat-2ZfjoI {
+	background: none !important;
+}
+.chatContent-3KubbW {
+	background-color: var(--primary-background) !important;
+}
+
+/* remove chat header background */
+.title-31SJ6t {
+	background: none !important;
 }
 
 /* Server List */

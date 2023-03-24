@@ -31,9 +31,9 @@
 	/* background of muted colored buttons on click */
 	/*--muted-background-active: hsl(220, 15%, 16%);
 	/* background of pretty much everything not using primary background */
-	/*--secondary-background: hsl(220, 15%, 13%);
+	--secondary-background: hsl(0, 0%, 0%);
 	/* main chat/channel list/member list background */
-	--primary-background: hsl(0, 0%, 0%);
+	--primary-background: hsl(0, 0%, 10%);
 	/* overlay background on stuff when hovered over */
 	/*--hover-modifier: hsl(230, 20%, 40%, 0.1);
 	/* overlay background on stuff when clicked or selected */

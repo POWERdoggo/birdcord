@@ -1,14 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
 
 :root {
-    --scrollbars: none;
-    --notes: none;
-    --message: none;
-    --embed-color: none;
     --font-primary: 'Sarabun', sans-serif;
-    
-    --border-radius-1: 10px;
-    --border-radius-2: 8px;
 }
 
 .theme-dark {

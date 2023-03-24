@@ -113,6 +113,31 @@
 	background: none !important;
 }
 
+/* rearrange toolbar */
+.iconWrapper-2awDjA[aria-label='Help'] {
+	display: none;
+}
+.iconWrapper-2awDjA[aria-label*='Member List'] {
+	order: 1;
+}
+.search-39IXmY {
+	order: 1;
+	margin-left: 34px;
+}
+.searchBar-jGtisZ {
+	width: 208px !important;
+	padding: 0px 2px;
+}
+.searchResultsWrap-5RVOkx {
+	width: 466px;
+}
+.iconWrapper-2awDjA[aria-label='Hide User Profile'] {
+	margin-left: 34px;
+}
+.profilePanel-2PWEok {
+	width: 340px;
+}
+
 /* Server List */
 .wrapper-1_HaEi,
 .base-2jDfDU {
@@ -132,9 +157,6 @@
 }
 
 /* Chat Area */
-.chatContent-3KubbW {
-    /*background-color: var(--background-1);*/
-}
 
 /* Member List */
 .container-2o3qEW {

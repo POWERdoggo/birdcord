@@ -34,17 +34,17 @@
     --channeltextarea-background: var(--background-tertiary);
 }
 
-.theme-dark .toolbar-3_r2xA {
+.toolbar-3_r2xA {
     background-color: var(--background-2);
     padding: 5px;
     border-radius: 8px;
 }
 
-.theme-dark .search-2Mwzzq {
+.search-2Mwzzq {
     border: 1px solid var(--accent-4);
     border-radius: 3px;
 }
 
-.theme-dark .selected-2TbFuo {
-    color: #fff;
+.selected-2TbFuo {
+    color: var(--accent-1);
 }

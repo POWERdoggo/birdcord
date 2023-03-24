@@ -12,7 +12,7 @@
     --background-1: #000;
     --background-2: #0a0a0a;
 
-    --background-primary: var(--background-1);
+    /*--background-primary: var(--background-1);
     --background-primary-alt: var(--background-2);
     --background-secondary: var(--background-2);
     --background-secondary-alt: var(--background-2);
@@ -31,7 +31,7 @@
     --interactive-active: var(--accent-4);
     --interactive-normal: var(--accent-1);
     
-    --channeltextarea-background: var(--background-tertiary);
+    --channeltextarea-background: var(--background-tertiary);*/
 }
 
 .toolbar-3_r2xA {

@@ -30,7 +30,7 @@
     
     --background-modifier-hover: var(--accent-3);
     --background-modifier-active: var(--accent-4);
-    --background-modifier-selected: var(--accent-3);
+    --background-modifier-selected: var(--accent-4);
     
     --text-normal: var(--accent-1);
     --interactive-selected: var(--background-3);

@@ -34,6 +34,11 @@
     --channeltextarea-background: var(--background-tertiary);*/
 }
 
+.sidebar-1tnWFu {
+    margin: 10px;
+    border-radius: 8px;
+}
+
 .content-1jQy2l {
     background-color: var(--background-1);
 }
@@ -45,7 +50,7 @@
 }
 
 .search-2Mwzzq {
-    border: 1px solid var(--accent-4);
+    border: 2px solid var(--accent-4);
     border-radius: 3px;
 }
 

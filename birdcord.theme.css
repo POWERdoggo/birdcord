@@ -41,22 +41,30 @@
     --channeltextarea-background: var(--background-tertiary);*/
 }
 
+/* Server List */
 .wrapper-1_HaEi {
-    background-color: #fff;
+    background-color: var(--background-1);
 }
 
+.tree-3agP2X {
+    background-color: var(--background-2);
+}
+
+/* Channel List */
 .sidebar-1tnWFu {
     margin: 0 10px 10px 0;
     border-radius: 8px;
 }
 
+/* Chat Area */
+.content-1jQy2l {
+    background-color: var(--background-1);
+}
+
+/* Member List */
 .container-2o3qEW {
     margin: 0 10px 10px 10px;
     border-radius: 8px;
-}
-
-.content-1jQy2l {
-    background-color: var(--background-1);
 }
 
 .children-3xh0VB {

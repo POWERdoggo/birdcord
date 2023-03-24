@@ -42,12 +42,15 @@
 }
 
 /* Server List */
-.wrapper-1_HaEi {
+.wrapper-1_HaEi,
+.base-2jDfDU {
     background-color: var(--background-1);
 }
 
 .tree-3agP2X {
     background-color: var(--background-2);
+    padding: 5px;
+    border-radius: 8px;
 }
 
 /* Channel List */
@@ -57,7 +60,7 @@
 }
 
 /* Chat Area */
-.content-1jQy2l {
+.chatContent-3KubbW {
     background-color: var(--background-1);
 }
 

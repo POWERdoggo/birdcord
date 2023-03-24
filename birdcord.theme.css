@@ -9,6 +9,9 @@
     /* Background color of the main chat area */
     --background-1: #000;
 
+    /* Alternative background color */
+    --background-2: #0a0a0a;
+
     /*--accent-1: #bbb;
     --accent-2: #888;
     --accent-3: #0098ff10;

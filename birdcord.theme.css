@@ -5,14 +5,18 @@
 }
 
 .theme-dark {
-    --accent-1: #bbb;
+
+    /* Background color of the main chat area */
+    --background-1: #000;
+
+    /*--accent-1: #bbb;
     --accent-2: #888;
     --accent-3: #0098ff10;
     --accent-4: #0098ffa0;
     --background-1: #000;
     --background-2: #0a0a0a;
 
-    /*--background-primary: var(--background-1);
+    --background-primary: var(--background-1);
     --background-primary-alt: var(--background-2);
     --background-secondary: var(--background-2);
     --background-secondary-alt: var(--background-2);
@@ -41,6 +45,12 @@
 
 .content-1jQy2l {
     background-color: var(--background-1);
+}
+
+.children-3xh0VB {
+    background-color: var(--background-2);
+    padding: 5px;
+    border-radius: 8px;
 }
 
 .toolbar-3_r2xA {
